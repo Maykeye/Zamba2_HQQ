@@ -1,7 +1,7 @@
 Zamba 2, HQQ-ified.
 ===================
 
-Notebook shows that it's possible to quantize 7b model of zamba 2
+Notebook(makezamba2-7b-quantie.ipynb) shows that it's possible to quantize 7b model of zamba 2
 https://huggingface.co/Zyphra/Zamba2-7B-Instruct
 
 # Model code fixes
